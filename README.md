@@ -26,6 +26,3 @@ Freshman CS student currently looking for internships to gain hands-on experienc
 ## Reach me
 - 📫 seitoyokota15@icloud.com
 - [LinkedIn](https://www.linkedin.com/in/seito-yokota-b33b313a9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B080i4WuNTdeYzkHPDwl%2FYg%3D%3D)
-
----
-*Freshman year, first real exposure to hardware/networking/security — this profile will grow as I do.*
