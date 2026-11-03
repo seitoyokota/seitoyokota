@@ -2,10 +2,6 @@
 
 Freshman CS student currently looking for internships to gain hands-on experience related to software development. I enjoy programming and seeing my code come to life. I love how software development is very similar to a puzzle, and I love the satisfaction when my project works exactly how I want it to. 
 
-## What I'm doing right now
-- Studying Computer Science (freshman year)
-- Learning programming languages on my own and creating small side projects to implement what I have learned
-
 ## Languages & tools
 **Languages:** C, C++, Java, SQL, PHP, HTML/CSS
 
@@ -18,9 +14,10 @@ Freshman CS student currently looking for internships to gain hands-on experienc
 - Set up a DNS server using BIND9 on a Raspberry Pi 5
 - Spent 2 months with a team in UAH's Space Hardware Club's Two Month program to develop a program in Arduino IDE for the Raspberry Pi Pico to collect and transfer data and a program in MATLAB to conduct data analysis, finding the maximums and minimums for each data, finding any corrupt data, and creating a graph as a function of time for each data
 
-## Currently learning
+## Currently focusing on
 - Working toward a solid grasp of networking basics and Linux fundamentals to understand the process behind the code
 - Learning and practicing with most commonly used programming languages such as JavaScript and Python to branch out my opportunities
+- Creating side projects to implement what I have learned
 
 ## Contacts
 - seitoyokota15@icloud.com
