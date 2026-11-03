@@ -4,24 +4,23 @@ Freshman CS student currently looking for internships to gain hands-on experienc
 
 ## What I'm doing right now
 - Studying Computer Science (freshman year)
-- Interning in cybersecurity at a DoD contractor, working directly with networking hardware and security tools
 - Learning programming languages on my own and creating small side projects to implement what I have learned
-- Practicing with Linux (Debian) to get comfortable with it day to day
 
 ## Languages & tools
 **Languages:** C, C++, Java, SQL, PHP, HTML/CSS
 
 **Lab toolkit:** VirtualBox, PuTTY, WinSCP, Winbox
 
-**Hardware I've worked with:** Raspberry Pi 5, MikroTik Cloud Core Router
+**Hardware I've worked with:** Raspberry Pi 5, MikroTik Cloud Core Router, Raspberry Pi Pico, Adafruit BMP388, Adafruit BNO055, Sparkfun NEO M9N, Adafruit MicroSD SPI Breakout Board, HC-12 Radio
 
 ## Projects
 - Used Apache to create a simple web application similar to Google Sheets or Microsoft Excel to learn HTML, CSS, PHP, SQL, Linux terminal, and the basics of security mechanisms implemented in web applications
 - Set up a DNS server using BIND9 on a Raspberry Pi 5
+- Spent 2 months with a team in UAH's Space Hardware Club's Two Month program to develop a program in Arduino IDE for the Raspberry Pi Pico to collect and transfer data and a program in MATLAB to conduct data analysis, finding the maximums and minimums for each data, finding any corrupt data, and creating a graph as a function of time for each data
 
 ## Currently learning
-- Working toward a solid grasp of networking basics and Linux fundamentals to understand the process behind the code.
-- Most commonly used programming languages such as JavaScript and Python to branch out my opporunities
+- Working toward a solid grasp of networking basics and Linux fundamentals to understand the process behind the code
+- Learning and practicing with most commonly used programming languages such as JavaScript and Python to branch out my opportunities
 
 ## Contacts
 - seitoyokota15@icloud.com
