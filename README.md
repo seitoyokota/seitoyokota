@@ -3,7 +3,7 @@
 Freshman CS student currently looking for internships to gain hands-on experience related to software development. I enjoy programming and seeing my code come to life. I love how software development is very similar to a puzzle, and I love the satisfaction when my project works exactly how I want it to. 
 
 ## Languages & tools
-**Languages:** C, C++, Java, SQL, PHP, HTML/CSS
+**Languages:** C, C++, Java, SQL, PHP, HTML/CSS, Python (currently learning), JavaScript (currently learning)
 
 **Lab toolkit:** VirtualBox, PuTTY, WinSCP, Winbox
 
